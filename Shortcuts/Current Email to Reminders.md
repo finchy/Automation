@@ -21,7 +21,7 @@ tell application "Mail"
 end tell
 ```
 
-/That script is in the Shortcut already, I am just copying and pasting here for ease of use./
+_That script is in the Shortcut already, I am just copying and pasting here for ease of use._
 
 I find this easier than highlighting the subject of an email and clicking share to create the link back to an email in reminders.  
 
