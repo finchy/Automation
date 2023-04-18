@@ -4,6 +4,7 @@ As indicated by other scripts in this repo, I am a heavy user of "Notes.app" for
 
 This Hazel script:
 
+<img width="884" alt="File To Notes" src="https://user-images.githubusercontent.com/2027717/232879065-13e6fb05-ce5e-4b81-9769-d11f19223502.png">
 
 
 Executes the following "Documents.scpt" script:
