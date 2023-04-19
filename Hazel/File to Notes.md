@@ -28,3 +28,5 @@ end hazelProcessFile
 ```
 
 Which will take a file that I have in the "Scans" folder (when a new file is placed there) and creates a Note in Notes.app and attaches the file to it.
+
+The original thread that gave me this idea is [here](https://www.noodlesoft.com/forums/viewtopic.php?f=3&t=7373)
